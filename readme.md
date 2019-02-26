@@ -36,9 +36,9 @@ To play the game:
 
 ### Game Requirements
 
-- Make sure the states don't appear in alphabetical order in the prompts. This
-  will make the game a bit more challenging for the user.
-- Provide a welcome message to introduce the player to the game.
+<!-- - Make sure the states don't appear in alphabetical order in the prompts. This
+  will make the game a bit more challenging for the user. -->
+<!-- - Provide a welcome message to introduce the player to the game. -->
 - Initialize new keys in the dictionaries that store the number of times a user
   gets a capital `correct` and the number of times the answer is `incorrect`.
 - Through all 50 states, prompt the user to name the capital of the state.
